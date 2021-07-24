@@ -38,6 +38,7 @@ export default {
       places: [],
       newPlaceParams: {},
       currentPlace: {},
+      errors: [],
     };
   },
   created: function () {
